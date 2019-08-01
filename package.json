@@ -2,7 +2,7 @@
   "name": "vue-auth0-lock",
   "version": "0.0.1",
   "description": "Vue plugin for auth0-lock login flow",
-  "main": "src/auth.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
