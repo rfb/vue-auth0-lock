@@ -1,6 +1,6 @@
 {
-  "name": "vue-auth0-lock",
-  "version": "0.0.1",
+  "name": "@rbarber/vue-auth0-lock",
+  "version": "1.0.0",
   "description": "Vue plugin for auth0-lock login flow",
   "main": "src/index.js",
   "scripts": {
